@@ -2,19 +2,19 @@
 
 Daily statistics from crypto and farming bots.
 
-## Latest — 2026-08-08
+## Latest — 2026-08-09
 
 ### 📰 Crypto News Bot (Farcaster)
-- Posts today: **5**
-- Posts this week: **58**
-- Score 8-10: 121 | Score 7: 68
+- Posts today: **1**
+- Posts this week: **55**
+- Score 8-10: 122 | Score 7: 71
 
 ### 🤖 Tempo Farm
 - Spent today: **0.0 USDC.e**
-- Spent this week: **0.642541 USDC.e**
+- Spent this week: **0.060037 USDC.e**
 - Active wallets: 9 (w01–w09)
 
-[View full stats](stats/2026-08-08.md)
+[View full stats](stats/2026-08-09.md)
 
 ---
 *Auto-updated daily at 13:00 UTC*
