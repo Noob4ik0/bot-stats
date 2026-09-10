@@ -2,7 +2,7 @@
 
 Daily statistics from crypto and farming bots.
 
-## Latest — 2026-09-09
+## Latest — 2026-09-10
 
 ### 📰 Crypto News Bot (Farcaster)
 - Posts today: **0**
@@ -14,7 +14,7 @@ Daily statistics from crypto and farming bots.
 - Spent this week: **0.0 USDC.e**
 - Active wallets: 9 (w01–w09)
 
-[View full stats](stats/2026-09-09.md)
+[View full stats](stats/2026-09-10.md)
 
 ---
 *Auto-updated daily at 13:00 UTC*
